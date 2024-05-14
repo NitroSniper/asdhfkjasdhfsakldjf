@@ -1,0 +1,5 @@
+/out/
+/glad/*
+!glad/README.md
+/.idea/
+/.vs/
